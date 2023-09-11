@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working at MaxScalla 
+- 🔭 I’m currently working at EY 
 - 🌱 I’m currently learning HTML, CSS, JAVA SCRIPT, SQL, REACT, REACT NATIVE, NODEJS
 - 🤔 I’m looking for help with web projects
 - 💬 Ask me about my studies of programmation
