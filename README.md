@@ -39,15 +39,6 @@ Atualmente, trabalho como **Engenheiro de Software Sênior**, onde aplico soluç
 | [**gestao-vagas**](https://github.com/lucmoraees/gestao-vagas) | API RESTful de gestão de vagas utilizando Java com Spring Boot, autenticação JWT e boas práticas de clean code. |
 | [**product-clean-arch**](https://github.com/lucmoraees/product-clean-arch) | Projeto demonstrando Clean Architecture aplicada a produtos, com separação clara de camadas. |
 
-> Substitua os links acima pelos seus repositórios reais ou me diga se quiser sugestões de projeto público com base nos seus conhecimentos.
-
----
-
-## 📊 GitHub Stats
-
-![Lucas GitHub Stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical)
-
 ---
 
 ## 📫 Onde me encontrar
