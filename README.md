@@ -34,9 +34,10 @@ Atualmente, trabalho como **Engenheiro de Software Sênior**, onde aplico soluç
 
 | Projeto | Descrição |
 |--------|-----------|
-| [**jornada-interativa**](https://github.com/seu-usuario/jornada-interativa) | Aplicação que utiliza árvores de decisão para guiar atendentes em processos de suporte. |
-| [**sumario-ai**](https://github.com/seu-usuario/sumario-ai) | Backend com GPT-4 que gera resumos automáticos de conteúdos técnicos. |
-| [**chat-gen-ai**](https://github.com/seu-usuario/chat-gen-ai) | Plataforma de experimentação com LLMs e LangChain para automação de processos. |
+| [**rt-genai-plataform**](https://github.com/lucmoraees/rt-genai-plataform) | Plataforma experimental com IA generativa para automação de atendimento usando LLMs e LangChain. |
+| [**e-shop-microservices**](https://github.com/lucmoraees/e-shop-microservices) | Sistema e-commerce baseado em microsserviços com foco em boas práticas de arquitetura moderna (DDD, Clean Architecture, CQRS). |
+| [**gestao-vagas**](https://github.com/lucmoraees/gestao-vagas) | API RESTful de gestão de vagas utilizando Java com Spring Boot, autenticação JWT e boas práticas de clean code. |
+| [**product-clean-arch**](https://github.com/lucmoraees/product-clean-arch) | Projeto demonstrando Clean Architecture aplicada a produtos, com separação clara de camadas. |
 
 > Substitua os links acima pelos seus repositórios reais ou me diga se quiser sugestões de projeto público com base nos seus conhecimentos.
 
